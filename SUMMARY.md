@@ -4,9 +4,7 @@
 
 ## Programming!
 
-* [Untitled](programming/untitled-1.md)
+* [LeetCode:binary-tree-maximum-path-sum](programming/untitled-1.md)
 
-## Notes
-
-* [笔记分享](notes/bi-ji-fen-xiang.md)
+## LIFE <a id="notes"></a>
 
