@@ -66,3 +66,9 @@ return Math.max(left, right) + node.val;
 
 最后这句就比较精髓了，在该节点不是根节点的情况下，将该节点作为根节点的最大路径和返回（相当于把这部分子树压缩在了一个节点中，节点的值是这部分树的最大路径和），由于题目要求是路径，所以只能选左或者右子树压缩，选择大的那个。
 
+## Out of box
+
+如果要求路径可达区域的最大和（并非一串），稍加修改返回，left+right即可
+
+如果非二叉树，即是经典的[Dijkstra's algorithm](https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm)
+
