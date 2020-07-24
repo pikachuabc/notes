@@ -11,3 +11,7 @@
 
 ## LIFE <a id="notes"></a>
 
+## Concept
+
+* [MVC vs. MVVM](concept/mvc-vs.-mvvm.md)
+
