@@ -13,5 +13,5 @@
 
 ## Concept
 
-* [MVC vs. MVVM](concept/mvc-vs.-mvvm.md)
+* [MVC vs. MVVM（未完成）](concept/mvc-vs.-mvvm.md)
 

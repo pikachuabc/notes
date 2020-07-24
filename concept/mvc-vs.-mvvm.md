@@ -2,7 +2,7 @@
 description: 由于实习需要最近看了看前端的一些概念，想起以前在看IOS开发中提到的关于MVVM的概念，这里做个比较总结
 ---
 
-# MVC vs. MVVM
+# MVC vs. MVVM（未完成）
 
 ## MVC
 
