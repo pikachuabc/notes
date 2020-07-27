@@ -9,6 +9,8 @@
 * [LeetCode:lowest-common-ancestor-of-a-binary-tree​](programming/leetcode-lowest-common-ancestor-of-a-binary-tree.md)
 * [LeetCode: https:binary-tree-level-order-traversal](programming/leetcode-https-binary-tree-level-order-traversal.md)
 * [LeetCode:IsBST](programming/leetcode-isbst.md)
+* [LeetCode: partition-list](programming/leetcode-partition-list.md)
+* [LeetCode:merge-two-sorted-lists](programming/leetcode-merge-two-sorted-lists.md)
 
 ## LIFE <a id="notes"></a>
 
