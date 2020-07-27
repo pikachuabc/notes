@@ -11,6 +11,7 @@
 * [LeetCode:IsBST](programming/leetcode-isbst.md)
 * [LeetCode: partition-list](programming/leetcode-partition-list.md)
 * [LeetCode:merge-two-sorted-lists](programming/leetcode-merge-two-sorted-lists.md)
+* [LeetCode:Sort List](programming/leetcode-sort-list.md)
 
 ## LIFE <a id="notes"></a>
 
