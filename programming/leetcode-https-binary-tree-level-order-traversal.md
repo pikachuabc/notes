@@ -2,7 +2,7 @@
 
 {% embed url="https://leetcode-cn.com/problems/binary-tree-level-order-traversal/" %}
 
-层序遍历输出节点值，用DFS做，easy
+用前序遍历做，easy
 
 ```java
 List<List<Integer>> res = new ArrayList<>();
