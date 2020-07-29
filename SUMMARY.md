@@ -13,6 +13,8 @@
 * [LeetCode:merge-two-sorted-lists](programming/leetcode-merge-two-sorted-lists.md)
 * [LeetCode:Sort List](programming/leetcode-sort-list.md)
 * [LeetCode: Linked List Cycle II](programming/leetcode-linked-list-cycle-ii.md)
+* [LeetCode:deep-copy-RandomList](programming/leetcode-deep-copy-randomlist.md)
+* [LeetCode: reverse-polish-notation](programming/leetcode-reverse-po.md)
 
 ## LIFE <a id="notes"></a>
 
