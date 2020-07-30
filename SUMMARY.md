@@ -15,6 +15,7 @@
 * [LeetCode: Linked List Cycle II](programming/leetcode-linked-list-cycle-ii.md)
 * [LeetCode:deep-copy-RandomList](programming/leetcode-deep-copy-randomlist.md)
 * [LeetCode: reverse-polish-notation](programming/leetcode-reverse-po.md)
+* [LeetCode: decode string](programming/leetcode-decode-string.md)
 
 ## LIFE <a id="notes"></a>
 
