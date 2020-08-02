@@ -18,6 +18,7 @@
 * [LeetCode: decode string](programming/leetcode-decode-string.md)
 * [LeetCode: Largest Rectangle in Histogram](programming/leetcode-largest-rectangle-in-histogram.md)
 * [LeetCode:01-matrix](programming/leetcode-01-matrix.md)
+* [LeetCode:counting bit1&2](programming/leetcode-counting-bit1-and-2.md)
 
 ## LIFE <a id="notes"></a>
 
