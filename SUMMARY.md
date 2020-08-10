@@ -24,6 +24,8 @@
 * [LeetCode:search-in-rotated-sorted-array](programming/leetcode-search-in-rotated-sorted-array.md)
 * [LeetCode: longest-consecutive-sequence](programming/leetcode-longest-consecutive-sequence.md)
 * [LeetCode:Unique Paths](programming/leetcode-unique-paths.md)
+* [Leetcode:climbStair](programming/leetcode-climbstair.md)
+* [LeetCode:jump game](programming/leetcode-jump-game.md)
 
 ## LIFE <a id="notes"></a>
 
