@@ -26,6 +26,7 @@
 * [LeetCode:Unique Paths](programming/leetcode-unique-paths.md)
 * [Leetcode:climbStair](programming/leetcode-climbstair.md)
 * [LeetCode:jump game](programming/leetcode-jump-game.md)
+* [LeetCode:longest-increasing-subsequence](programming/untitled.md)
 
 ## LIFE <a id="notes"></a>
 
