@@ -27,6 +27,7 @@
 * [Leetcode:climbStair](programming/leetcode-climbstair.md)
 * [LeetCode:jump game](programming/leetcode-jump-game.md)
 * [LeetCode:longest-increasing-subsequence](programming/untitled.md)
+* [LeetCode:word-break](programming/leetcode-word-break.md)
 
 ## LIFE <a id="notes"></a>
 
