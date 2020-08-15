@@ -1,5 +1,5 @@
 ---
-description: 疫情期间在家提升一下。。。
+description: share and grow
 ---
 
 # Welcome to Jacob's OASIS

@@ -39,3 +39,7 @@
 
 * [This.getName\(\) vs. Thread.currentThread.getName\(\)](java-thread/this.getname-vs.-thread.currentthread.getname.md)
 
+## JAVA-Swing
+
+* [jpanel画图延迟替代方法](java-swing/jpanel-hua-tu-yan-chi-ti-dai-fang-fa.md)
+
