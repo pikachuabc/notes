@@ -41,5 +41,5 @@
 
 ## JAVA-Swing
 
-* [jpanel画图延迟替代方法](java-swing/jpanel-hua-tu-yan-chi-ti-dai-fang-fa.md)
+* [swing画图延迟替代方法](java-swing/jpanel-hua-tu-yan-chi-ti-dai-fang-fa.md)
 
