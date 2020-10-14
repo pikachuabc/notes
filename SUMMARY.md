@@ -4,6 +4,7 @@
 
 ## Programming!
 
+* [LeetCode: max product](programming/leetcode-max-product.md)
 * [LeetCode:binary-tree-maximum-path-sum](programming/untitled-1.md)
 * [LeetCode:water tank](programming/leetcode-water-tank.md)
 * [LeetCode:lowest-common-ancestor-of-a-binary-tree​](programming/leetcode-lowest-common-ancestor-of-a-binary-tree.md)
