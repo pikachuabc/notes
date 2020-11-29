@@ -29,6 +29,8 @@
 * [LeetCode:jump game](programming/leetcode-jump-game.md)
 * [LeetCode:longest-increasing-subsequence](programming/untitled.md)
 * [LeetCode:word-break](programming/leetcode-word-break.md)
+* [LeetCode: max Perimeter](programming/leetcode-max-perimeter.md)
+* [LeetCode: cloest 3sum](programming/leetcode-cloest-3sum.md)
 
 ## LIFE <a id="notes"></a>
 
