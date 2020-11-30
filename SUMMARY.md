@@ -31,6 +31,7 @@
 * [LeetCode:word-break](programming/leetcode-word-break.md)
 * [LeetCode: max Perimeter](programming/leetcode-max-perimeter.md)
 * [LeetCode: cloest 3sum](programming/leetcode-cloest-3sum.md)
+* [LeetCode: first and last position in sorted array](programming/leetcode-first-and-last-position-in-sorted-array.md)
 
 ## LIFE <a id="notes"></a>
 
