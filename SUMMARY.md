@@ -48,3 +48,7 @@
 
 * [swing画图延迟替代方法](java-swing/jpanel-hua-tu-yan-chi-ti-dai-fang-fa.md)
 
+## JAVA Collection
+
+* [Collection & Map](java-collection/collection.md)
+
