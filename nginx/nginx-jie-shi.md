@@ -38,9 +38,13 @@ server\_name，这里做测试的话需要把地址暂时解析到本机，这�
 
 location后面加的/code就是请求中后面加/code会从这个地方处理，比如www.nginx.com:8081/code ，有点像spring那个request mapping。
 
-X-forward-for 是在多个代理情况下转发的地址，形式为IP0，IP1，IP2，这里的IP0就是源请求来自的地址，中间是转发的服务器的地址
+X-forward-for 是在多个代理情况下转发的地址，形式为IP0，IP1，IP2，这里的IP0就是源请求来自的地址，中间是转发的服务器的地址，这样应用服务器就可以得到源请求的Ip
+
+[https://blog.csdn.net/weixin\_30443813/article/details/94935960?utm\_medium=distribute.pc\_relevant.none-task-blog-searchFromBaidu-2.control&depth\_1-utm\_source=distribute.pc\_relevant.none-task-blog-searchFromBaidu-2.control](https://blog.csdn.net/weixin_30443813/article/details/94935960?utm_medium=distribute.pc_relevant.none-task-blog-searchFromBaidu-2.control&depth_1-utm_source=distribute.pc_relevant.none-task-blog-searchFromBaidu-2.control)
 
 proxypass指明了转发的地址，如果多个服务器同样服务的话可以放在upstream里面然后配置相关的转发策略，轮训，权重，hash进行转发
+
+负载均衡，并发限制等暂时没有用到以后补充
 
 
 
