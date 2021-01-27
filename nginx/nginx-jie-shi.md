@@ -34,9 +34,9 @@ server {
 
 listen这里就是指nginx的监听端口
 
-server\_name，这里做测试的话需要把地址暂时解析到本机，这个可以在 /usr/local/etc/nginx/nginx.conf 这里配置，比如把地址www.nginx.com解析到127.0.0.1，因为本机地址现在就是nginx的服务器地址
+server\_name，这里做测试的话需要把地址暂时解析到本机，这个可以在 /etc/hosts这里配置，比如把地址www.nginx.com解析到127.0.0.1，因为本机地址现在就是nginx的服务器地址
 
-location后面加的/code就是请求中后面加/code会从这个地方处理，比如www.nginx.com:8081/code ，有点像spring那个request mapping。
+location后面加的/code就是请求中后面加/code会从这个地方处理，比如www.nginx.com:8081/code ，有点像spring那个request mapping。这个可以正则匹配地址，有一套匹配顺序和规则
 
 X-forward-for 是在多个代理情况下转发的地址，形式为IP0，IP1，IP2，这里的IP0就是源请求来自的地址，中间是转发的服务器的地址，这样应用服务器就可以得到源请求的Ip
 
