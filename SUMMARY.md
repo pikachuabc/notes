@@ -56,3 +56,7 @@
 
 * [nginx解释](nginx/nginx-jie-shi.md)
 
+## 设计模式
+
+* [设计模式](she-ji-mo-shi/she-ji-mo-shi.md)
+
