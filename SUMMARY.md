@@ -36,9 +36,7 @@
 
 ## LIFE <a id="notes"></a>
 
-## Concept
-
-* [MVC vs. MVVM（未完成）](concept/mvc-vs.-mvvm.md)
+## Functional programming <a id="concept"></a>
 
 ## Java-Thread
 
@@ -51,8 +49,6 @@
 ## JAVA Collection
 
 * [Collection & Map](java-collection/collection.md)
-
-## spring
 
 ## nginx
 
