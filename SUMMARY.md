@@ -38,6 +38,10 @@
 
 ## Functional programming <a id="concept"></a>
 
+---
+
+* [Java流实现函数式排序算法](java-liu-shi-xian-han-shu-shi-pai-xu-suan-fa.md)
+
 ## Java-Thread
 
 * [This.getName\(\) vs. Thread.currentThread.getName\(\)](java-thread/this.getname-vs.-thread.currentthread.getname.md)
